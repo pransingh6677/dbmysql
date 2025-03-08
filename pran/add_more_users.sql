@@ -3,4 +3,5 @@ INSERT INTO users (name, email)
 VALUES
     ('sonu', 'sonu.adams@example.com'),
     ('sanu', 'sanu.brown@example.com'),
+    ('soou', 'soou.brown@example.com'),
     ('soni', 'soni.clark@example.com');
